@@ -1,0 +1,19 @@
+README:
+
+Within the folder: 'Non-stabilised' are four folders containing footage acquired from the 
+River Arrow under both seeded and unseeded conditions acquired using a Go-Pro and DJI UAS.
+Within each corresponding folder are orthorectified images, and videos made using the 
+orthorectified footage. Videos and extracted images are presented at a sample rate of 5Hz.
+All frames a have a resolution of 0.0174 m/px.
+
+Within the folder: 'Stabilised' are four folders containing footage acquired from the 
+River Arrow under both seeded and unseeded conditions acquired using a Go-Pro and DJI UAS.
+Within each corresponding folder are stabilised and orthorectified images, and videos made 
+using the stabilised and orthorectified footage. Videos and extracted images are presented 
+at a sample rate of 5Hz. All frames a have a resolution of 0.0174 m/px.
+
+Within the folder: 'Reference' are two .xlsx files which provide reference velocity
+measurements made within the cameras field of view for both the GoPro and UAS deployments.
+The locations of the velocity measuremets is provided in pixel units and based on the
+first frame of the stabilised imagery.
+

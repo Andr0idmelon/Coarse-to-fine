@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Joe
+  given-names: Johnson
+orcid: https://orcid.org/0000-0000-0000-0000
+title:Andr0idmelon/Coarse-to-fine: Coarse-to-fine variational inference with physics-informed deep learning for complex fluid motion estimation
+version: python
+date-released: 2025-10-01
